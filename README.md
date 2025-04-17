@@ -15,8 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/achutha02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achutha02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/achutha bidarahalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achutha bidarahalli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/achutha_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="achutha_02" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bidarahalliachyuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bidarahalliachyuta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achutha02&show_icons=true&locale=en&layout=compact" alt="achutha02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achutha02&show_icons=true&locale=en" alt="achutha02" /></p>
+
 
